@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+September 28, 2018
 
 ## Student Name:  
-(First and Last Name)
+Schuyler Hample
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+Gaining a logical understand of Git, Github and how to configure Cloud9 for Git.
+
+## View Project:
+https://nightschuy.github.io/lesson3_versioncontrol/
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to create and configure your Github account.
+2. Backing up local files to the Local and Remote Repository.
+3. Understanding the importance of file versions.
 
